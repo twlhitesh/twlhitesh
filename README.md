@@ -1,5 +1,3 @@
-# Hitesh Ravi's Personal Repository
-
 ## Welcome to My World of Learning and Growth!
 
 Hello there! I'm Hitesh Yadav, an 18-year-old on a journey of continuous learning, personal growth, and wealth accumulation. This repository is a glimpse into my diverse interests and the exciting projects I'm working on.
