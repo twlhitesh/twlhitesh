@@ -45,7 +45,7 @@ Hello there! I'm Hitesh Yadav, an 18-year-old on a journey of continuous learnin
 
 ### 🌐 On Other Platforms
 
-- [Leetcode](twlhitesh)S
+- [Leetcode](twlhitesh)
 - [GeeksforGeeks](twlhitesh)
 
 ### 🎉 Let's Grow Together!
