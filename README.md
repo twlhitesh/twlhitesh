@@ -43,10 +43,10 @@ Hello there! I'm Hitesh Yadav, an 18-year-old on a journey of continuous learnin
 - "Thinking, Fast and Slow" by Daniel Kahneman
 - "Zero to One" by Peter Thiel
 
-### 🌐 Connect with Me
+### 🌐 On Other Platforms
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
+- [Leetcode](twlhitesh)S
+- [GeeksforGeeks](twlhitesh)
 
 ### 🎉 Let's Grow Together!
 
