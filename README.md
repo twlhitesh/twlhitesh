@@ -2,6 +2,12 @@
 
 Hello there! I'm Hitesh Yadav, an 18-year-old on a journey of continuous learning, personal growth, and wealth accumulation. This repository is a glimpse into my diverse interests and the exciting projects I'm working on.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=twlhitesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twlhitesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 ### 🚀 About Me
 
 - 💡 Highly interested in finance, economics, entrepreneurship, startups, and computer science.
@@ -36,10 +42,6 @@ Hello there! I'm Hitesh Yadav, an 18-year-old on a journey of continuous learnin
 - "Rich Dad Poor Dad" by Robert Kiyosaki
 - "Thinking, Fast and Slow" by Daniel Kahneman
 - "Zero to One" by Peter Thiel
-
-#### Online Courses
-- [Coursera - Financial Markets](link)
-- [Udacity - Introduction to Entrepreneurship](link)
 
 ### 🌐 Connect with Me
 
