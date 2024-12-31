@@ -17,8 +17,7 @@ Hello there! I'm Hitesh Yadav, an 19-year-old on a journey of continuous learnin
 
 
 <h1 align="center" style="font-family: 'Helvetica', sans-serif; font-size: 3em; color: #111;">
-  <strong>💻 Tech Stack</strong>
-  <br>
+  <strong>💻 Tech Stack, </strong>
   <span style="font-size: 1.5em; color: #666;">"Powerful. Precise. Cutting-edge."</span>
 </h1>
 
