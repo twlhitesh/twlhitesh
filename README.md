@@ -8,7 +8,7 @@ Hello there! I'm Hitesh Yadav, an 19-year-old on a journey of continuous learnin
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=twlhitesh&theme=aura&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twlhitesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twlhitesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
