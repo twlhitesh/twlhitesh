@@ -86,27 +86,75 @@ Hello there! I'm Hitesh Yadav, an 19-year-old on a journey of continuous learnin
 ### 
 
 ###
+<table>
+<tr>
+<td width="50%">
+
 ### 🚀 About Me
+Hi there! 👋 I'm someone who's passionate about unlocking the secrets of success and building a life of purpose and achievement.  
+- 💡 I’m deeply interested in finance, economics, startups, and technology—especially how they shape the future.  
+- 🌱 I believe in the power of lifelong learning and personal growth. Every day is an opportunity to get better, smarter, and more creative.  
+- 🧠 I’m on a mission to develop a mind that’s sharp, focused, and overflowing with big ideas that can make a real difference in the world.  
+- 🎯 Time is my most valuable resource, and I’m always looking for ways to manage it better, build wealth, and create a successful ecosystem around me.  
+- 🌌 I love exploring the unknown—whether it’s uncovering hidden truths, mastering a new skill, or chasing ambitious dreams.  
 
-- 💡 Highly interested in finance, economics, entrepreneurship, startups, and computer science.
-- 🌱 Committed to lifelong learning and personal development.
-- 🧠 Aspiring to develop a powerful and highly intelligent mind.
+</td>
+<td width="50%">
 
-### 🔭 Current Focus
+<img src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" width="100%">
 
-- 📚 Exploring the realms of finance and economics to build a solid foundation.
-- 💻 Diving deep into computer science concepts and coding to enhance my technical skills.
-- 🚀 Experimenting with entrepreneurial ideas and startup projects.
+</td>
+</tr>
+</table>
 
-### 🌟 Projects
 
-#### Project 1: WealthBuilder App
-- 📈 A finance app focused on wealth accumulation strategies.
-- 💡 Leveraging the power of compounding and smart investment techniques.
+<table>
+<tr>
+<td width="50%">
 
-#### Project 2: CodeGenius Platform
-- 💻 An educational platform for coding enthusiasts.
-- 🧠 Sharpening coding skills through interactive challenges and projects.
+<img src="https://media.giphy.com/media/QxSveBdhdtLgagcKdR/giphy.gif" width="100%">
+
+</td>
+<td width="50%">
+
+### 🔭 Current Focus  
+I’m all about pushing boundaries and turning ambitious ideas into reality! 🚀  
+- 📚 Expanding my expertise in finance and economics to lay a strong foundation for building wealth and understanding markets.  
+- 💻 Immersing myself in computer science, learning the tech that powers the future, and working on AI-powered tools.  
+- 🌟 Developing creative entrepreneurial projects like **Hackathon.DIY** and ideating on a **universal job search aggregator** inspired by Skyscanner.  
+- 🛠 Exploring tools like Google’s Gemini API and X.ai GROK for cutting-edge projects in web development and AI.  
+- 🔍 Optimizing time, sharpening focus, and chasing big goals while staying grounded in curiosity and continuous learning.  
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 Projects  
+#### Project 1: Hackathon.DIY  
+- 🛠 A free web tool that helps users upload website screenshots and get front-end code (HTML, CSS, JS), tech stack details, and guides to recreate the site.  
+- 🤖 Powered by AI to transform hackathon themes, tech stacks, and audiences into tailored, innovative project ideas.  
+- 🚀 Designed for developers, startups, and teams to simplify the hackathon journey and fuel creativity.  
+
+#### Project 2: Universal Job Finder  
+- 🔍 A job search aggregator inspired by **Skyscanner**, pulling listings from platforms like LinkedIn, Glassdoor, and official company websites.  
+- 🌐 Aims to provide a seamless and unified job-hunting experience for users.  
+
+#### Project 3: WealthBuilder Toolkit  
+- 📈 Tools and strategies focused on wealth accumulation, leveraging compounding, investment insights, and financial planning.  
+- 💡 Empowering users to make smarter financial decisions for long-term success.  
+
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/A39hlmeW1On7LOtHO8/giphy.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ### 🤔 Challenges and Questions
 
