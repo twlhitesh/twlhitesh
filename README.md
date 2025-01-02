@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=twlhitesh&label=Profile%20Views&style=flat&color=blue) 
 ![Last Updated](https://img.shields.io/github/last-commit/twlhitesh/twlhitesh?logo=github&label=Last%20Updated&style=flat)
 
-Hello there! I'm Hitesh Yadav, an 19-year-old on a journey of continuous learning, personal growth, and wealth accumulation. This repository is a glimpse into my diverse interests and the exciting projects I'm working on.
+Hello there! I'm Hitesh, an 19-year-old on a journey of continuous learning, personal growth, and wealth accumulation. This repository is a glimpse into my diverse interests and the exciting projects I'm working on.
 
 
 <div align="center">
