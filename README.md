@@ -17,6 +17,29 @@ Hello there! I'm Hitesh, an 19-year-old on a journey of continuous learning, per
   <img src="https://github-profile-trophy.vercel.app/?username=twlhitesh&theme=aura&no-frame=false&no-bg=false&margin-w=4"  />
 </div>
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧮 LeetCode Stats  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/twlhitesh?theme=chartreuse&font=Share&ext=activity)
+
+</td>
+<td width="50%">
+
+### 📊 LeetCode Badge Showcase  
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=twlhitesh&theme=dark&border=border&animated=true" width="100%">
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <h1 align="center" style="font-family: 'Helvetica', sans-serif; font-size: 3em; color: #111;">
   <strong>💻 Tech Stack, </strong>
@@ -26,6 +49,7 @@ Hello there! I'm Hitesh, an 19-year-old on a journey of continuous learning, per
 <p align="center">
   <i style="font-size: 1.2em; color: #999;">"Turning visions into extraordinary solutions through technology."</i>
 </p>
+
 
 ---
 
