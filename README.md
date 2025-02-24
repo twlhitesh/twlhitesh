@@ -1,4 +1,8 @@
-## Welcome to My World of Learning and Growth !   
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1877F2,25:000000,50:FF9900,75:E50914,100:34A853&height=150&section=header" />
+</p>
+
+## Welcome to My World of Learning and Growth ! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiteshonweb) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/twlhitesh) 
@@ -207,3 +211,6 @@ I’m all about pushing boundaries and turning ambitious ideas into reality! �
 I'm always open to collaborations and discussions. Feel free to reach out if you share similar interests or have exciting ideas to explore.
 
 Happy coding and learning! 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34A853,25:E50914,50:FF9900,75:000000,100:1877F2&height=150&section=footer" />
+</p>
